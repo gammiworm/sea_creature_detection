@@ -1,0 +1,5 @@
+train: aquarium-data-cots/aquarium_pretrain/train/images
+val: aquarium-data-cots/aquarium_pretrain/valid/images
+
+nc: 7
+names: ['fish', 'jellyfish', 'penguin', 'puffin', 'shark', 'starfish', 'stingray']
